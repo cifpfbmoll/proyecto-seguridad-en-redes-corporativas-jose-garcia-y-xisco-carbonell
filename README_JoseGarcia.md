@@ -1,8 +1,8 @@
 # proyecto-seguridad-en-redes-corporativas-jose-garcia-y-xisco-carbonell
 proyecto-seguridad-en-redes-corporativas-jose-garcia-y-xisco-carbonell created by GitHub Classroom
 
-- 1. INSTALACIÓN DEL S.O. UBUNTU
-- 2. CONFIGURACION DEL ARRANQUE GRUB:
+-1. INSTALACIÓN DEL S.O. UBUNTU
+-2. CONFIGURACION DEL ARRANQUE GRUB:
   - 2.1  Establecer contraseña de arranque:
   - 2.2 Establecer permisos fichero de configuración de arranque
   - 2.3 Obligar al uso de contraseña en el modo “single user”
