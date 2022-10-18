@@ -1,14 +1,14 @@
 # proyecto-seguridad-en-redes-corporativas-jose-garcia-y-xisco-carbonell
 proyecto-seguridad-en-redes-corporativas-jose-garcia-y-xisco-carbonell created by GitHub Classroom
 
--1. INSTALACIÓN DEL S.O. UBUNTU
--2. CONFIGURACION DEL ARRANQUE GRUB:
-  - 2.1  Establecer contraseña de arranque:
-  - 2.2 Establecer permisos fichero de configuración de arranque
-  - 2.3 Obligar al uso de contraseña en el modo “single user”
-  - 2.3.1 Establecemos una contraseña al usuario root
-  - 2.3.2 Establecemos permisos de solo lectura al Usuario root para el fichero de arranque
-  - 2.3.3 Para que te aparezca el GRUB:
+- 1. INSTALACIÓN DEL S.O. UBUNTU
+- 2. CONFIGURACION DEL ARRANQUE GRUB:
+   - 2.1  Establecer contraseña de arranque:
+   - 2.2 Establecer permisos fichero de configuración de arranque
+   - 2.3 Obligar al uso de contraseña en el modo “single user”
+   - 2.3.1 Establecemos una contraseña al usuario root
+   - 2.3.2 Establecemos permisos de solo lectura al Usuario root para el fichero de arranque
+   - 2.3.3 Para que te aparezca el GRUB:
 3. CONFIGURACIÓN DE USUARIOS Y GRUPOS.
   3.1 Creación de nuevo usuario 
   3.2 Añadimos el usuario nuevo a sudoers.
